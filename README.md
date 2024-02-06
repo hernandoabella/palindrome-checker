@@ -1,1 +1,1 @@
-# comprobador-palindromo
+# palindrome-checker
